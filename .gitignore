@@ -1,0 +1,6 @@
+# macOS에서 생성되는 시스템 파일들 무시
+.DS_Store
+
+# macOS/OSX 용 VSCode 디버깅 설정 파일
+.vscode/launch.json
+.vscode/tasks.json
