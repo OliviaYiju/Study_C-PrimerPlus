@@ -1,3 +1,7 @@
+/*
+1. 이름과 주소를 출력하는 c++ 프로그램을 작성하시오
+*/
+
 #include<iostream>
 using namespace std;
 
